@@ -14,3 +14,7 @@ print (only)
 #input number short from
 cell=int(input('What are your cell number?'))
 print (cell)
+
+number="what"
+c=int(input (number))
+print (c)
